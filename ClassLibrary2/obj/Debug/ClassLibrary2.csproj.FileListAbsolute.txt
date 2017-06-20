@@ -1,0 +1,4 @@
+C:\Users\QUEBEC\Desktop\ASP\LaCouverture\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\QUEBEC\Desktop\ASP\LaCouverture\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\QUEBEC\Desktop\ASP\LaCouverture\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\QUEBEC\Desktop\ASP\LaCouverture\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
